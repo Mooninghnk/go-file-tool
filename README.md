@@ -1,2 +1,2 @@
 # Instructions..
-```<h1>Just go build<h1> [name]... ./[name]```
+<h1>Just</h1>```go build [name]... ./[name]```
